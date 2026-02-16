@@ -5,7 +5,7 @@
 
 ### 🔧 About Me
 
-- 🎓 **Education:** B.Sc. in **Computer Mathematics** at Taras Shevchenko National University of Kyiv (KNU).
+- 🎓 **Education:** B.Sc. in **Computer Mathematics** at Taras Shevchenko National University of Kyiv (2024-Present).
 - 🛠️ **Current Focus:** Developing advanced models in **[ML_projects](https://github.com/bebz0/ML_projects)**.
 - 🌱 **Deepening Knowledge in:** High-performance **C++**, Optimization Theory, and LLMs.
 - 🧠 **Math Stack:** Multidimensional Analysis, Concrete Mathematics, Combinatorics.
