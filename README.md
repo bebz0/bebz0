@@ -1,45 +1,31 @@
-<h1 align="center">Hi 👋, I'm Kudermin Roman</h1>
-<h3 align="center">ML Engineer • Python Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/bebz0">
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Roman Kudermin</h1>
+<h3 align="center">Mathematics Student • ML Engineer • Python Developer</h3>
 
 ---
 
 ### 🔧 About Me
-- 🛠️ Currently working on **[ML_projects](https://github.com/bebz0/ML_projects)**
-- 🎓 Learning: **C, C++**
-- 📫 Reach me: **romanbizonua@gmail.com**
+
+- 🎓 **Education:** B.Sc. in **Computer Mathematics** at Taras Shevchenko National University of Kyiv (KNU).
+- 🛠️ **Current Focus:** Developing advanced models in **[ML_projects](https://github.com/bebz0/ML_projects)**.
+- 🌱 **Deepening Knowledge in:** High-performance **C++**, Optimization Theory, and LLMs.
+- 🧠 **Math Stack:** Multidimensional Analysis, Concrete Mathematics, Combinatorics.
+- 📫 **Reach me:** [romankudermin@gmail.com](mailto:romankudermin@gmail.com)
 
 ---
 
-### 🌐 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/roman-kudermin-261192363/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
-  </a>
-</p>
+### 🛠 Languages & Tools
+
+- **Languages:** `Python` `C++` `SQL` `LaTeX`
+- **Machine Learning:** `PyTorch` `Scikit-learn` `Pandas` `NumPy` `SciPy` `Seaborn`
+- **Development:** `Git` `Django` `Linux` `Bash`
 
 ---
 
-### 🛠 Languages & Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bebz0&show_icons=true&theme=tokyonight" height="180px"/>
+  <a href="https://linkedin.com/in/roman-kudermin-261192363/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:romankudermin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
 </p>
