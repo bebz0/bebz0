@@ -1,5 +1,5 @@
 <h1 align="center">Roman Kudermin</h1>
-<h3 align="center">Machine Learning Engineer & Computer Mathematics Student</h3>
+<h3 align="center"> ML/AI Engineer 
 
 <p align="center">
   <a href="https://linkedin.com/in/roman-kudermin-261192363/" target="_blank">
@@ -24,5 +24,5 @@ NumPy · Pandas · SciPy · Matplotlib · Seaborn
 ### Backend & MLOps
 FastAPI · Docker · MLflow · DVC · Weights & Biases · Git/GitHub · Linux
 
-### Programming
-Python · C/C++ · SQL · PostgreSQL · MySQL
+### Programming/DB
+Python · C/C++ · PostgreSQL · MySQL · ChromaDB · Qdrant
